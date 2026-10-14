@@ -1,6 +1,6 @@
 {
-	  "id"         : "preside-ext-elasticsearch"
-	, "title"      : "Pixl8 ElasticSearch API Wrapper"
+	  "id"         : "preside-ext-elasticsearch-legacy"
+	, "title"      : "Pixl8 ElasticSearch Legacy API Wrapper"
 	, "author"     : "Pixl8 Interactive"
 	, "version"    : "$VERSION_NUMBER"
 }
